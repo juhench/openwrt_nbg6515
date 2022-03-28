@@ -2,7 +2,7 @@
 OpenWrt Development Instructions for ZyXEL NBG6515 Router
 
 The instructions are located here:
-https://openwrt.org/toh/zyxel/zyxel_nbg6515_ac750
+https://openwrt.org/toh/zyxel/nbg6515_ac750
 
 The 512 bytes patch and two tested downloads are included here, originally developed for the Ralink MT7620a + MT7530 evaluation board.
 
